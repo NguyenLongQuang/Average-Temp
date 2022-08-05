@@ -6,9 +6,9 @@
 	* This project used:
 		- Linear Regression model.
 		- Gradient descent algorithm (with Feature Scaling).
-    - C++ encapsulation (OOPs).
-  * This prroject included:
-    - Original code library to quickly repair and make changes on future projects.
+		- C++ encapsulation (OOPs)
+	* This prroject included:
+		- Original code library to quickly repair and make changes on future projects.
 
 ## Usage:
   * Input address of the training data file (text file).
