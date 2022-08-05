@@ -11,9 +11,9 @@
   - Code library to quickly repair and make changes on future projects.
 
 ## Usage:
-  * Input the address of the training data file (text file).
+  * Input address of the training data file (text file).
   * Wait. 
-  * Input year needed prediction.
+  * Input the year needed prediction.
   * Output average temperature in the month of March (Fahrenheit).
 
 ## Reference:
