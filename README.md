@@ -7,11 +7,11 @@
   - Linear Regression model.
   - Gradient descent algorithm (with Feature Scaling).
   - C++ encapsulation (OOPs).
-* This prroject included:
+* This project included:
   - Code library to quickly repair and make changes on future projects.
 
 ## Usage:
-  * Input address of the training data file (text file).
+  * Input the address of the training data file (text file).
   * Wait. 
   * Input year needed prediction.
   * Output average temperature in the month of March (Fahrenheit).
