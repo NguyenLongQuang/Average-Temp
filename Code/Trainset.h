@@ -3,7 +3,7 @@
 #include<vector>
 #include<math.h>
 
-#define learning_rate 0.01
+#define learning_rate 0.1
 
 class Trainset {
 private:
@@ -87,7 +87,7 @@ double J_1(double theta0, double theta1, Trainset T) {
 
 void run_GD(double& theta0, double& theta1, Trainset T) {
 	double temp0, temp1;
-	for (int i = 0;i < 300000;i++) {
+	for (int i = 0;i < 500000;i++) {
 		 temp0 = theta0 - learning_rate * J_0(theta0, theta1, T);
 		 temp1 = theta1 - learning_rate * J_1(theta0, theta1, T);
 		 theta0 = temp0;
