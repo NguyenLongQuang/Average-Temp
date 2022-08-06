@@ -8,7 +8,8 @@
   - Gradient descent algorithm (with Feature Scaling).
   - C++ encapsulation (OOPs).
 * This project included:
-  - Code library to quickly repair and make changes on future projects.
+  - Code library to quickly repair and make changes on future projects (C++).
+  - 
 
 ## Usage:
   * Input address of the training data file (text file).
