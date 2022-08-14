@@ -9,7 +9,6 @@
   - C++ encapsulation (OOPs).
 * This project included:
   - Code library to quickly repair and make changes on future projects (C++).
-  - Data visualization using matplotlib.pyplot (Python).
 
 ## Usage:
   * Input address of the training data file (text file).
